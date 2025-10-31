@@ -37,7 +37,7 @@ public class NotaRestoran
 
         } while (lanjut == 'y' || lanjut == 'Y');
 
-        System.out.println("\n===== NOTA PEMBAYARAN =====");
+        System.out.println("\n===== NOTA PEMBAYARAN PEMESANAN =====");
 
         //autocomplate
         double total = 0;
